@@ -22,7 +22,7 @@ Scraped the following fields of each movie using the Scrapy package.
 ---
 Scraped the listings of four example regions in NYC area using the Selenium package. Each listing contains the following fields.
 
-*Note*: this website uses [Distil Networks](https://www.distilnetworks.com/) or similar technology to ban automated browser like Selenium. To bypass that, followe the solution [here](https://www.distilnetworks.com/) otherwise you will see the reCAPTCHA after a few pages.
+*Note*: this website uses [Distil Networks](https://www.distilnetworks.com/) or similar technology to ban automated browser like Selenium. To bypass that, follow the solution [here](https://stackoverflow.com/a/52108199) to change the `cdc_` variable in your chromedriver otherwise you will see the reCAPTCHA after a few pages.
 
 - property
 - bed
